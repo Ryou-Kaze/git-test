@@ -1,0 +1,3 @@
+ Preferably one that is kept up with patches/fixes, updates. I don't care if it requires dependencies like yt-dlp, youtube-dl, mpg123, etc.
+
+A TUI app with a search function so I can search for songs within the app and listen to them. 
